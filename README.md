@@ -1,5 +1,5 @@
 # raspi4B_scenes_demo
-基于树莓派4B与Paddle-Lite实现的场景识别(5分类)
+基于树莓派4B与Paddle-Lite实现的场景分类(5分类)
 
 
 ## 环境要求
